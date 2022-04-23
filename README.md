@@ -59,11 +59,11 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ###Light and Dark Mode
 
-###Normal Mode
+### Normal Mode
 
-###Creative Mode
+### Creative Mode
 
-###Competitive Mode
+### Competitive Mode
 
 
 

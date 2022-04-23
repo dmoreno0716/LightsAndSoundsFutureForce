@@ -1,0 +1,162 @@
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  background-color: black;
+  color: white;
+  margin: 2em;
+}
+
+/*@media (prefers-color-scheme: light | dark)*/
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#topButtons {
+  width: 100%;
+  text-align: right;
+}
+
+#toggleSounds {
+  text-align: left;
+}
+
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: lightgreen;
+}
+#button1:active,
+#button1.lit {
+  background: green;
+}
+#button2 {
+  background: lightblue;
+}
+#button2:active,
+#button2.lit {
+  background: blue;
+}
+#button3 {
+  background: pink;
+}
+#button3:active,
+#button3.lit {
+  background: red;
+}
+#button4 {
+  background: lightyellow;
+}
+#button4:active,
+#button4.lit {
+  background: yellow;
+}
+#button5 {
+  background: sandybrown;
+}
+#button5:active,
+#button5.lit {
+  background: peru;
+}
+#button6 {
+  background: mediumorchid;
+}
+#button6:active,
+#button6.lit {
+  background: indigo;
+}
+
+#button7 {
+  background: darkgoldenrod;
+}
+#button7:active,
+#button7.lit {
+  background: darkorange;
+}
+
+#button8 {
+  background: dimgrey;
+}
+#button8:active,
+#button8.lit {
+  background:darkslategrey;
+}
+
+#button9 {
+  background:lightcoral;
+}
+#button9:active,
+#button9.lit {
+  background:hotpink;
+}
+
+#button10 {
+  background:limegreen;
+}
+#button10:active,
+#button10.lit {
+  background:lime;
+}
+
+#button11 {
+ background:mediumblue; 
+}
+#button11:active,
+#button11.lit {
+  background:midnightblue;
+}
+
+#button12 {
+  background:whitesmoke;
+}
+#button12:active,
+#button12.lit {
+  background:slategrey;
+}
+
+/*@media (prefers-color-scheme: dark) 
+{
+	body {
+		background-color: black;
+	}
+}
+
+
+.p 
+{
+	color: white;
+	background-color: #212121;
+}
+.text--alpha {
+	color: #50a8d8;
+}
+*/
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+.listColor{
+  background-color: gray;
+}

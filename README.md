@@ -59,20 +59,27 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ### Light and Dark Mode
 GIF shows off the Light and Dark Modes on each of the game modes of the site
+![](https://media.discordapp.net/attachments/213806318853554176/967283396889952276/LightAndDark.gif?width=1286&height=676)
 
 ### Normal Mode
+Normal Mode being played and won
 ![](https://media.discordapp.net/attachments/213806318853554176/967282039218905139/NormalWin.gif?width=1291&height=676)
 
+Normal Mode showing you can lose
+![](https://media.discordapp.net/attachments/213806318853554176/967282059712266250/NormalLose.gif?width=1289&height=676)
+
 ### Creative Mode
+Creative Mode showing off the features
+![](https://media.discordapp.net/attachments/213806318853554176/967284895808368700/CreativeModeHelp.png?width=1440&height=669)
+
+Creative Mode showing off changing features
+![](https://media.discordapp.net/attachments/213806318853554176/967285025550782504/CreativeModeCustomize.gif?width=1301&height=676)
+
+Creative Mode being played and won
+![](https://media.discordapp.net/attachments/213806318853554176/967285143721099284/CreativeModeWin.gif?width=1294&height=675)
 
 ### Competitive Mode
-
-
-
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://media.discordapp.net/attachments/213806318853554176/967285274122006538/CompetitiveMode.gif?width=1323&height=676)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

@@ -57,9 +57,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-###Light and Dark Mode
+### Light and Dark Mode
+GIF shows off the Light and Dark Modes on each of the game modes of the site
 
 ### Normal Mode
+![https://media.discordapp.net/attachments/213806318853554176/967282039218905139/NormalWin.gif?width=1291&height=676]
 
 ### Creative Mode
 
